@@ -1,0 +1,44 @@
+{% include header.html %}
+
+    <div class="review-page">
+        <div class="wrap">
+            <h2>{{ page.title }}</h2>
+
+            {% if page.header_image %}
+            <img src="{{ page.header_image }}" alt="{{ page.header_image_alt }}">
+            {% endif %}
+
+            <div class="info">
+                <div class="panel">
+                    <p class="title">Distillery</p>
+                    <p>{{ page.distillery }}</p>
+                </div>
+                <div class="panel">
+                    <p class="title">Type</p>
+                    <p>{{ page.type }}</p>
+                </div>
+                <div class="panel">
+                    <p class="title">Region</p>
+                    <p>{{ page.region }}</p>
+                </div>
+                <div class="panel">
+                    <p class="title">Age</p>
+                    <p>{{ page.age }}</p>
+                </div>
+                <div class="panel">
+                    <p class="title">Price</p>
+                    <p>{{ page.price }}</p>
+                </div>
+                <div class="panel">
+                    <p class="title">ABV</p>
+                    <p>{{ page.abv }}</p>
+                </div>
+            </div>
+
+            {{ content }}
+            
+            <p><span class="date">Published {{ page.date | date: '%B %d, %Y' }}</span></p>
+        </div>
+    </div>
+
+{% include footer.html %}

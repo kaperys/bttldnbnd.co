@@ -1,0 +1,12 @@
+{% include header.html %}
+
+    <div class="post-page">
+        <div class="wrap"> 
+            <h2>{{ page.title }}</h2>   
+            {{ content }}
+
+            <p><span class="date">Published {{ page.date | date: '%B %d, %Y' }}</span></p>
+        </div>
+    </div>
+
+{% include footer.html %}

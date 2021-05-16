@@ -1,0 +1,55 @@
+.post-page
+    blockquote
+        font:
+            size: 2rem
+            style: italic
+        position: relative
+
+        &::before
+            position: absolute
+            content: '"'
+            top: -3rem
+            left: -2rem
+            font:
+                size: 6rem
+                family: $quote-font
+            z-index: -1
+            color: var(--hover-colour)
+        
+        p
+            &:first-of-type
+                margin-bottom: 1rem
+
+            &:last-of-type
+                margin: 0
+                font:
+                    size: 1rem
+                    style: italic
+                text-align: right
+
+    .cite
+        margin-top: -1rem
+        text-align: right
+        font-style: italic
+
+        @media screen and (max-width: 620px)
+            font-size: .8rem
+
+    a
+        color: inherit
+        text-decoration: none
+        font-weight: bold
+    
+        &:hover
+            color: var(--hover-colour)
+
+    img
+        width: 100%
+
+    p .date
+        font:
+            size: .8rem
+            style: italic
+        &::before
+            content: "-"
+            margin-right: .2rem

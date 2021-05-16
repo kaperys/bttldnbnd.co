@@ -1,0 +1,86 @@
+$title-font: 'Work Sans', sans-serif
+$body-font: 'Montserrat', sans-serif
+$quote-font: 'Just Me Again Down Here', cursive
+    
+*
+    box-sizing: border-box
+    font-family: $body-font
+    --hover-colour: #a0a0a0
+
+body
+    margin: 0
+    padding: 0
+
+h1, h2, h3, h4, h5, h6
+    font: 
+        family: $title-font
+        weight: 600
+    text-transform: uppercase
+
+.wrap
+    max-width: 920px
+    width: 100%
+    margin: 0 auto
+    padding: 0 2rem
+
+header
+    background-color: black
+    margin: 1rem
+    padding: 2rem 0
+    color: white
+
+    h1
+        margin: 0
+
+        a
+            color: inherit
+            text-decoration: none
+            font: 
+                family: $title-font
+                weight: 600
+            
+            &:hover
+                color: var(--hover-colour)
+
+    p
+        font:
+            family: $body-font
+            size: 1rem
+        margin: 0
+
+    nav
+        ul
+            list-style: none
+            padding: 0
+            margin: 1rem 0 0 0
+
+            li
+                display: inline-block
+
+                &::after
+                    content: "|"
+                    color: white
+                    margin: 0 .8rem
+
+                &:last-of-type
+                    margin-right: 0
+
+                    &::after
+                        content: ""
+                        margin: 0
+
+                a
+                    color: white
+                    font:
+                        family: $title-font
+                        weight: 600
+                        size: 1rem
+                    text:
+                        decoration: none
+                        transform: uppercase
+
+                    &:hover
+                        color: var(--hover-colour)
+
+                    svg
+                        vertical-align: -0.150em

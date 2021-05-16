@@ -1,0 +1,14 @@
+title: bttldnbnd.
+description: A whiskey blog covering all things bourbon, scotch, cocktails and more!
+url: "https://bttldnbnd.co"
+permalink: /:categories/:title
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Makefile

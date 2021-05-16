@@ -1,0 +1,27 @@
+{% include header.html %}
+
+    <div class="home-page">
+        <div class="wrap">
+            {{ content }}
+        </div>
+
+        <div class="wrap">
+            <div class="posts">
+                {% for post in site.posts %}
+                    <div class="post">
+                        <a href="{{ post.url }}" title="{{ post.title | escape }}">
+                            <img src="{{ post.cover_image }}" alt="{{ post.cover_image_alt }}">
+                            <h2>{{ post.title }}</h2>
+                        </a>
+
+                        {{ post.excerpt }}
+
+                        <p><span class="date">{{ post.date | date: '%B %d, %Y' }}</span></p>
+                        <a href="{{ post.url }}" title="{{ post.title | escape }}" class="more">Read More &raquo;</a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+{% include footer.html %}

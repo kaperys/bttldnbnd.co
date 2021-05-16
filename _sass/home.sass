@@ -1,0 +1,50 @@
+.home-page
+    .posts
+        display: flex
+        flex-wrap: wrap
+
+        .post
+            --columns: 3
+            width: calc(100% / var(--columns))
+            padding: 1rem
+
+            @media screen and (max-width: 920px)
+                --columns: 2
+
+            @media screen and (max-width: 620px)
+                --columns: 1
+                padding: 0rem
+                margin-bottom: 1rem
+
+            h2
+                margin: 1rem 0
+            
+            img
+                width: 100%
+
+            p .date
+                font:
+                    size: .8rem
+                    style: italic
+                &::before
+                    content: "-"
+                    margin-right: .2rem
+
+            a
+                color: inherit
+                text-decoration: none
+
+            a.more
+                display: inline-block
+                background-color: black
+                color: white
+                padding: 1rem 2rem 1rem 1rem
+                font:
+                    family: $title-font
+                    size: .6rem
+                text:
+                    transform: uppercase
+                    decoration: none
+            
+                &:hover
+                    background-color: var(--hover-colour)
