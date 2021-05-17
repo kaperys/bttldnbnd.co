@@ -25,7 +25,7 @@ Wild Turkey Rare Breed Bourbon is a barrel-proof Kentucky Straight Bourbon known
 
 <!--more-->
 
-First released in 1991, Rare Breed has seen four label iterations but has stayed true to Wild Turkey's traditional mashbill of 75% Indiana corn, 13% North East German rye, and 12% Minnesotan malted barley, which is used for all of their bourbons. Although the label bears no age statement, Wild Turkey brand ambassadors have previously confirmed the blend contains 6, 8 and 12 year old bourbons.
+First released in 1991, Rare Breed has seen four label iterations but has stayed true to Wild Turkey's traditional mashbill of 75% Indiana corn, 13% North East German rye, and 12% Minnesotan malted barley (all non-GMO), which is used for all of their bourbons. Although the label bears no age statement, Wild Turkey brand ambassadors have previously confirmed the blend contains 6, 8 and 12 year old bourbons.
 
 > Uncut with water, Rare Breed is an uncompromised Kentucky bourbon with tones of sweet tobacco and hints of orange and mint, making it a remarkably smooth whiskey legend
 >
@@ -41,7 +41,7 @@ Very dense, thick and spicy up front. There are subtle hints of black pepper, ba
 
 ### Palate
 
-A big, bold, spicy punch in the face (but don't let that put you off)! Rare Breed has strong herbal notes with hints of barrel toast and lots of spicy rye. This whiskey will stand up to a drop of water, if that's your thing. While a little oily and very mouth filling, after the wave of spice a little sweetness develops - cherry and brown sugar.
+A big, bold, spicy punch in the face (but don't let that put you off)! Rare Breed has strong herbal notes with hints of barrel char and lots of spicy rye. This whiskey will stand up to a drop of water, if that's your thing. Doing so opens up the sweetness, and reduces the intensity of the spice. Whist a little oily and very mouth filling, after the wave of spice a little sweetness develops - cherry and brown sugar.
 
 ### Finish
 

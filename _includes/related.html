@@ -1,0 +1,21 @@
+<div class="related-posts">
+    <div class="wrap">
+        <p class="title">Related posts</p>
+        <div class="posts">
+            {% assign count = 0 %}
+            <!-- { if related.categories contains page.categories[0] and related.title != page.title and count != 2 } -->
+            {% for related in site.posts %}
+                {% if related.title != page.title and count != 2 %}
+                <div class="post">
+                    <h2>{{ related.title }}</h2>
+                    {{ related.excerpt }}
+
+                    <p><span class="date">{{ related.date | date: '%B %d, %Y' }}</span></p>
+                    <a href="{{ related.url }}" title="{{ related.title | escape }}" class="more">Read More &raquo;</a>
+                </div>
+                {% assign count = count | plus:1 %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

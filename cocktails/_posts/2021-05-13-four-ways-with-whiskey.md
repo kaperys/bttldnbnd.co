@@ -23,7 +23,6 @@ Here are four excellent whiskey cocktails to get your palate singing. We'll rate
 ### Manhattan
 
 ![Manhattan cocktail in a tall stemmed glass](/img/posts/four-ways-with-whiskey/manhattan-cocktail-wide.jpg "the Manhattan cocktail")
-
 <div class="cite">Image courtesy of <a href="https://unsplash.com/photos/KOrhUJUVIyI" title="">@drew_beamer on unsplash.com</a></div>
 
 A Manhattan is a great classic cocktail that really packs a punch. In our recipe, we use Bulleit Rye whiskey to give it a spicy kick and Antica Formula for the vermouth. Any high rye content whiskey would be a great alternative here, or you could use a classic bourbon or even a Canadian whiskey – try making a few and comparing your findings! 
@@ -50,7 +49,6 @@ Tasting Notes: Spicy with a little bitterness and a little sweetness from the ch
 ### Whiskey Sour
 
 ![a Whiskey Sour cocktail in a rocks glass](/img/posts/four-ways-with-whiskey/whiskey-sour-cocktail-wide.jpg "the Whiskey Sour cocktail")
-
 <div class="cite">Image courtesy of <a href="https://unsplash.com/photos/psqaCoLj9QE" title="">@cocktailbart on unsplash.com</a></div>
 
 A Whiskey Sour is a great pre-dinner cocktail – or *aperitif*. This means that it's a great drink to whet your appetite – it sets you up nicely for a meal. The warming caramel notes of the bourbon contrast well with the sharp citrus flavour of the lemon juice and sweet simple syrup rounds the drink out well. It's a well-balanced, easy to drink, and most importantly, absolutely delicious cocktail. We use Buffalo Trace Kentucky Straight Bourbon in our recipe, but feel free to experiment with different ones!
@@ -80,10 +78,9 @@ Tasting Notes: Thick, velvety, sweet and sour. There's a reason sour cocktails h
 ### BLT
 
 ![a BLT cocktail in a mason jar](/img/posts/four-ways-with-whiskey/blt-cocktail-wide.jpg "the BLT cocktail")
-
 <div class="cite">Image courtesy of <a href="https://unsplash.com/photos/7_sh64mY-v8" title="">@sigmund on unsplash.com</a></div>
 
-~~Bacon, lettuce & tomato~~ Oh wait, wrong blog post! This BLT is even more delicious than the sandwich. This one stands for Bourbon, Lemon & Tonic and this cocktail is the answer to all your warm Summer night whiskey cocktail needs. Light, refreshing, and oh-so-morish. What's not to love! The traditional whiskey for this cocktail is Bulleit Bourbon, but we love the vanilla notes that Maker's Mark Bourbon brings to our BLTs. If you order this in a bar, you can ask for bourbon & tonic water with a dash of lemon juice - it's a fairly new drink, so not so well known. 
+~~Bacon, lettuce & tomato.~~ Oh wait, wrong blog post! This BLT is even more delicious than the sandwich. This one stands for Bourbon, Lemon & Tonic and this cocktail is the answer to all your warm Summer night whiskey cocktail needs. Light, refreshing, and oh-so-morish. What's not to love! The traditional whiskey for this cocktail is Bulleit Bourbon, but we love the vanilla notes that Maker's Mark Bourbon brings to our BLTs. If you order this in a bar, you can ask for bourbon & tonic water with a dash of lemon juice - it's a fairly new drink, so not so well known.
 
 Level of Difficulty: 1
 
@@ -107,7 +104,6 @@ Tasting Notes: Light and lemon-y with a hint of sour. The tonic water helps to l
 ### Old Fashioned
 
 ![a garnished Old Fashioned cocktail](/img/posts/four-ways-with-whiskey/old-fashioned-cocktail-wide.jpg "the Old Fashioned cocktail")
-
 <div class="cite">Image courtesy of <a href="https://unsplash.com/photos/dmkmrNptMpw" title="">@arobj on unsplash.com</a></div>
 
 What's the first cocktail that comes to mind when someone mentions whiskey? For me, its always an Old Fashioned. When made well, this cocktail is a perfectly balanced and timeless drink that you'll find yourself ordering (or making!) again and again. We like to use sugar for the first part of this recipe, but you could substitute it for simple syrup, if you'd prefer. For our recipe, we use Four Roses Bourbon for its sweetness, but an Old Fashioned is great with a Rye whiskey too. You'll sometimes see this drink made with half whiskey and half amaretto - known as an AB Sour. Try experimenting and see which you prefer!
@@ -122,7 +118,7 @@ Tasting Notes: Citrus-forward and well-rounded. The whiskey really shines throug
 - 1 Teaspoon of Water
 - A Couple of Dashes of Angostura Bitters (Orange Bitters work great here as well!)
 - 50ml Four Roses Bourbon (or whiskey of your choice)
-- Orange Peel, to garnish
+- Orange peel, to garnish
 
 #### Method
 

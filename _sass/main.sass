@@ -84,3 +84,73 @@ header
 
                     svg
                         vertical-align: -0.150em
+
+.related-posts
+    background-color: black
+    margin: 1rem
+    padding: 2rem 0
+    color: white
+
+    p.title
+        font:
+            family: $title-font
+            weight: 600
+            size: 2rem
+        text-transform: uppercase
+        margin: 0
+
+    .posts
+        margin-top: 1rem
+        display: flex
+        flex-wrap: wrap
+
+        .post
+            --columns: 2
+            width: calc(100% / var(--columns))
+
+            &:first-of-type
+                padding-right: 1rem
+
+            @media screen and (max-width: 620px)
+                --columns: 1
+
+                &:first-of-type
+                    padding: 0
+                    margin-bottom: 2rem
+
+            h2
+                font:
+                    family: $title-font
+                    weight: 600
+                    size: 1rem
+                text-transform: uppercase
+                margin: 0
+
+            p .date
+                font:
+                    size: .8rem
+                    style: italic
+                &::before
+                    content: "-"
+                    margin-right: .2rem
+
+            a.more
+                display: inline-block
+                background-color: white
+                color: black
+                padding: 1rem 2rem 1rem 1rem
+                font:
+                    family: $title-font
+                    size: .6rem
+                text:
+                    transform: uppercase
+                    decoration: none
+
+                &:hover
+                    background-color: var(--hover-colour)
+
+footer
+    font-size: .8rem
+
+    p
+        margin-top: 0
