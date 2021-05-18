@@ -7,7 +7,7 @@
             {% for related in site.posts %}
                 {% if related.title != page.title and count != 2 %}
                 <div class="post">
-                    <h2>{{ related.title }}</h2>
+                    <h2><a href="{{ related.url }}" title="{{ related.title | escape }}">{{ related.title }}</a></h2>
                     {{ related.excerpt }}
 
                     <p><span class="date">{{ related.date | date: '%B %d, %Y' }}</span></p>
