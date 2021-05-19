@@ -8,8 +8,8 @@ meta_keywords: cocktails, whiskey-forward, whiskey based cocktails, bourbon, whi
 meta_author: Jessica Beever
 
 excerpt_separator: <!--more-->
-cover_image: /img/posts/four-ways-with-whiskey/whiskey-sour-cocktail-cover.jpg
-cover_image_alt: A garnished whiskey sour cocktail standing on a wall
+cover_image: /img/posts/four-ways-with-whiskey/blt-cocktail-cover.jpg
+cover_image_alt: A BLT cocktail with ice
 ---
 
 Here are four different whiskey-forward cocktails that will blow your mind!

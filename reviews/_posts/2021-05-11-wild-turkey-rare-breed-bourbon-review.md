@@ -9,9 +9,9 @@ meta_author: Mike Kaperys
 
 excerpt_separator: <!--more-->
 cover_image: /img/posts/wild-turkey-rare-breed-review/wild-turkey-rare-breed-cover.jpg
-cover_image_alt: A bottle of Wild Turkey Rare Breed bourbon resting on stones by a fire pit
+cover_image_alt: A bottle of Wild Turkey Rare Breed bourbon standing on stone stairs
 header_image: /img/posts/wild-turkey-rare-breed-review/wild-turkey-rare-breed-tall.jpg
-header_image_alt: A bottle of Wild Turkey Rare Breed bourbon standing on a wall
+header_image_alt: A bottle of Wild Turkey Rare Breed bourbon standing on coffee table
 
 category: Bourbon
 distillery: Wild Turkey
@@ -32,7 +32,7 @@ First released in 1991, Rare Breed has seen four label iterations but has stayed
 >
 > <cite>from [wildturkeybourbon.com](https://wildturkeybourbon.com/product/wild-turkey-rare-breed/)</cite>
 
-Since it's release, Rare Breed has won many awards including gold medals at both the San Francisco World Spirits Competition and the International Wine & Spirits Competition. It's not hard to see why!
+Since it's release, Rare Breed has won many awards including gold medals at both the San Francisco World Spirits Competition and the International Wine & Spirits Competition, and it's not hard to see why!
 
 The bottle I'll be reviewing bears date code LL/HD072357, which [can be read](https://rarebird101.com/bottle-codes/) as bottled on the 7th of April 2019 at 23:57.
 
@@ -42,11 +42,11 @@ Very dense, thick and spicy up front. There are subtle hints of black pepper, ba
 
 ### Palate
 
-A big, bold, spicy punch in the face (but don't let that put you off)! Rare Breed has strong herbal notes with hints of barrel char and lots of spicy rye. This whiskey will stand up to a drop of water, if that's your thing. Doing so opens up the sweetness, and reduces the intensity of the spice. Whist a little oily and very mouth filling, after the wave of spice a little sweetness develops - cherry and brown sugar.
+A big, bold, spicy punch in the face (but don't let that put you off)! Rare Breed has strong herbal notes with hints of barrel char and lots of spicy rye. This whiskey will stand up to a drop of water, if that's your thing. Doing so opens up the sweetness, and reduces the intensity of the spice. Whist a little oily and very mouth filling, after the wave of spice passes a little sweetness develops - cherry and brown sugar/caramel.
 
 ### Finish
 
-The rye spiciness remains, with a little caramel and brown sugar lingering. Whilst not the longest finish, the subtle smokiness from the barrel char fills the mouth.
+The rye spice and pepper remains, with a little caramel lingering. Whilst not the longest finish, the subtle smokiness from the barrel char fills the mouth.
 
 ### Overall
 
