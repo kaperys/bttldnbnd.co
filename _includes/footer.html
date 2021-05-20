@@ -5,7 +5,48 @@
     </footer>
     <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3DGS2JJYMV"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script>
+        var documents = {
+            {% for post in site.posts %}"{{ post.id | slugify }}": {
+                "title": "{{ post.title | escape }}",
+                "category": "{{ post.category | escape }}",
+                "url": "{{ post.url | escape }}"}{% unless forloop.last %},{% endunless %}
+            {% endfor %}};
+
+        var idx = lunr(function() {
+            this.field('id');
+            this.field('title', { boost: 10 });
+            this.field('category', { boost: 10 });
+            this.field('url');
+
+            for (var key in documents) {
+                this.add({
+                    'id': key,
+                    'title': documents[key].title,
+                    'category': documents[key].category,
+                    'url': documents[key].url
+                });
+            }
+        });
+
+        var search = new URLSearchParams(window.location.search).get('search');
+        if (search !== null && search.length) {
+            var results = idx.search(search)
+            if (results.length) {
+                var matches = '';
+                for (var i = 0; i < results.length; i++) {
+                    matches += results[i].ref + '|';
+                }
+
+                document.querySelectorAll('.post').forEach(function(post) {
+                    if (!matches.includes(post.getAttribute("data-post-id"))) {
+                        post.remove();
+                    }
+                });
+            }
+        }
+
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
