@@ -32,6 +32,8 @@
 
         var search = new URLSearchParams(window.location.search).get('search');
         if (search !== null && search.length) {
+            document.getElementById("search").value = search;
+
             var results = idx.search(search)
             if (results.length) {
                 var matches = '';
