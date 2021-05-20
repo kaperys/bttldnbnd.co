@@ -9,7 +9,7 @@ meta_author: Mike Kaperys
 
 excerpt_separator: <!--more-->
 cover_image: /img/posts/wild-turkey-rare-breed-review/wild-turkey-rare-breed-cover.jpg
-cover_image_alt: A bottle of Wild Turkey Rare Breed bourbon standing on stone stairs
+cover_image_alt: A bottle of Wild Turkey Rare Breed bourbon laid on wood
 header_image: /img/posts/wild-turkey-rare-breed-review/wild-turkey-rare-breed-tall.jpg
 header_image_alt: A bottle of Wild Turkey Rare Breed bourbon standing on coffee table
 
