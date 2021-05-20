@@ -5,10 +5,15 @@
             {{ content }}
         </div>
 
+        <form action="/" method="get">
+            <input type="search" name="search" id="search">
+            <input type="submit" value="Search">
+        </form>
+
         <div class="wrap">
             <div class="posts">
                 {% for post in site.posts %}
-                    <div class="post">
+                    <div class="post" data-post-id="{{ post.id | slugify }}">
                         <a href="{{ post.url }}" title="{{ post.title | escape }}">
                             <img src="{{ post.cover_image }}" alt="{{ post.cover_image_alt }}">
                             <h2>{{ post.title }}</h2>
