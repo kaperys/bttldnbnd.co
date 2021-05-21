@@ -11,7 +11,7 @@
                     {{ related.excerpt }}
 
                     <p><span class="date">{{ related.date | date: '%B %d, %Y' }}</span></p>
-                    <a href="{{ related.url }}" title="{{ related.title | escape }}" class="more">Read More &raquo;</a>
+                    <a href="{{ related.url }}" title="{{ related.title | escape }}" class="more">Read More</a>
                 </div>
                 {% assign count = count | plus:1 %}
                 {% endif %}
