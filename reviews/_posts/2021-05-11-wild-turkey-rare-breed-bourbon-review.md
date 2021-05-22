@@ -8,10 +8,10 @@ meta_keywords: wild turkey, bourbon, whiskey, barrel proof, review, whiskey revi
 meta_author: Mike Kaperys
 
 excerpt_separator: <!--more-->
-cover_image: /img/posts/wild-turkey-rare-breed-review/wild-turkey-rare-breed-cover.jpg
+cover_image: /img/posts/wild-turkey-rare-breed-bourbon-review/wild-turkey-rare-breed-bourbon-cover.jpg
 cover_image_alt: A bottle of Wild Turkey Rare Breed bourbon laid on wood
-header_image: /img/posts/wild-turkey-rare-breed-review/wild-turkey-rare-breed-tall.jpg
-header_image_alt: A bottle of Wild Turkey Rare Breed bourbon standing on coffee table
+header_image: /img/posts/wild-turkey-rare-breed-bourbon-review/wild-turkey-rare-breed-bourbon-tall.jpg
+header_image_alt: A bottle of Wild Turkey Rare Breed bourbon standing on stone stairs
 
 category: Bourbon
 distillery: Wild Turkey
