@@ -49,6 +49,8 @@ header
         margin: 0
 
     nav
+        display: inline-block
+
         ul
             list-style: none
             padding: 0
@@ -86,7 +88,12 @@ header
                         vertical-align: -0.150em
 
     form
-        margin: 1rem 0 0 0
+        margin: calc(1rem - 7px) 0 0 0 // 7px because 6px padding-bottom + 1px border-bottom
+        float: right
+
+        @media screen and (max-width: 620px)
+            margin: 1rem 0 0 0
+            float: none
 
         input[type="search"]
             background-color: black

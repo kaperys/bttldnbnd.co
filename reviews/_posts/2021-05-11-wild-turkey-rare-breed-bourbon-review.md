@@ -2,6 +2,7 @@
 layout: review
 title: Wild Turkey Rare Breed (Bourbon) review
 date: 2021-05-11
+author: Mike Kaperys
 
 meta_description: Wild Turkey Rare Breed Bourbon is a barrel-proof Kentucky Straight Bourbon known for being an accessible, affordable and very good barrel-proof dram. A rare sight these days!
 meta_keywords: wild turkey, bourbon, whiskey, barrel proof, review, whiskey review

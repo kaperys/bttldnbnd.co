@@ -2,6 +2,7 @@
 layout: post
 title: Four ways with whiskey
 date: 2021-05-13
+author: Jessica Beever
 
 meta_description: Here are four different whiskey-forward cocktails that will blow your mind!
 meta_keywords: cocktails, whiskey-forward, whiskey based cocktails, bourbon, whiskey cocktails, whiskey, whiskey for beginners

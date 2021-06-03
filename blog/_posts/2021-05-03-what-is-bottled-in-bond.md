@@ -2,6 +2,7 @@
 layout: post
 title: What is "Bottled in Bond"?
 date: 2021-05-03
+author: Mike Kaperys
 
 meta_description: Bottled in Bond... You'll have heard the phrase, and maybe even own a few bottles, but what does the term actually mean?
 meta_keywords: bottled in bond, whiskey, bourbon, 1792, bottled in bond whiskey, 1792 bourbon

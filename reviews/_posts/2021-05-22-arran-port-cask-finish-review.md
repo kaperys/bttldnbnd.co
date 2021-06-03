@@ -2,6 +2,7 @@
 layout: review
 title: Arran Port Cask Finish review
 date: 2021-05-22
+author: Mike Kaperys
 
 meta_description: Released in 2010, Arran Port Cask Finish Single Malt Scotch was introduced as part of Arran's ex-wine cask finish series, alongside an Amarone and a Sauternes cask finish.
 meta_keywords: arran, single malt, scotch, whisky, port cask, arran single malt scotch, port finish scotch, isle of arran
@@ -16,7 +17,7 @@ header_image_alt: A bottle of Arran Port Cask Finish Single Malt Scotch standing
 category: Scotch
 distillery: Arran
 type: Single Malt Scotch
-region: Isle of Arran
+region: Isle of Arran, Scotland
 age: NAS
 price: £44.35
 abv: 50%

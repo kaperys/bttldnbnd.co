@@ -6,9 +6,8 @@
             <img class="header" src="{{ page.header_image }}" alt="{{ page.header_image_alt }}">
             {% endif %}
 
-            <a href="/?search={{ page.category | downcase }}" class="category">{{ page.category }}</a>
-
             <h2>{{ page.title }}</h2>
+            <a href="/?search={{ page.category | downcase }}" class="category">{{ page.category }}</a>
 
             <div class="info">
                 <div class="panel">
@@ -41,7 +40,7 @@
                 {{ content }}
             </div>
             
-            <p><span class="date">Published {{ page.date | date: '%B %d, %Y' }}</span></p>
+            <p><span class="date">Published {{ page.date | date: '%B %d, %Y' }}{% if page.author %} by {{ page.author }}{% endif %}</span></p>
         </div>
     </div>
 
